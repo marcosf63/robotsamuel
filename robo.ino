@@ -3,7 +3,7 @@
    Este prgram controla o robot do samuel
    Autor: Marcos Oliveira e Samuel Oliveira
    e-mail: marcosf63@gmail.com
-   V0
+   V0 - Versao sem a garra
 
 */
 
