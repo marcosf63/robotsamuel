@@ -6,7 +6,7 @@
    Versao: 1.0
    Adicionei um controle remoto 6 canais
    Adicionei uma garra robotica
-
+   Tenho que terminar antes que o Samuel fique adulto
 */
 
 #include <AFMotor.h>
